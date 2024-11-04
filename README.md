@@ -85,7 +85,3 @@ Contributions are welcome! Feel free to submit issues or pull requests for impro
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For inquiries or feedback, please reach out to [Your Name](mailto:your.email@example.com).
